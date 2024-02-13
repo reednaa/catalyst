@@ -8,7 +8,6 @@ or coverage with
 ```
 forge coverage --ir-minimum
 ```
-Note that coverage doesn't work right now.
 
 ## Test Structure
 
